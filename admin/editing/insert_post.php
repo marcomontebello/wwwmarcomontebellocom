@@ -180,7 +180,7 @@ if(isset($_POST['submit'])){
   // se l'inserimento ha avuto successo inviamo una notifica
  if ($connect->query($sql) === TRUE) {
     echo '<script type="text/javascript">
-           window.location = "https://wwwmarcomontebellocom.000webhostapp.com/blog.php"
+           window.location = "https://wwwmarcomontebellocom.000webhostapp.com/blog_bck.php"
       </script>'; } else {
         echo "Error: " . $sql . "<br>" . $conn->error;
  }
