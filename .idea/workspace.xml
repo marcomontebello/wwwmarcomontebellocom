@@ -19,22 +19,262 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aaf91e9-36c2-4418-b701-9917638a6c3d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="9aaf91e9-36c2-4418-b701-9917638a6c3d" name="Default" comment="wordpress installation">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/css/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/editing/insert_post.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/editing/insert_post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/editing/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/admin/editing/scss/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/admin/scss/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/est_fin_lett.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_bck/est_fin_lett.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/lofoten_capo_nord.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_bck/lofoten_capo_nord.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/articolo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/default-skin/default-skin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/default-skin/default-skin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/default-skin/default-skin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/default-skin/preloader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/styles-merged.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/styles-merged.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/util.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/vendor/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/vendor/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/vendor/default-skin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/vendor/flexslider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/vendor/icomoon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/vendor/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/vendor/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/vendor/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/vendor/photoswipe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/default-skin/default-skin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/default-skin/default-skin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/default-skin/default-skin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/default-skin/preloader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/styles-merged.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/styles-merged.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/util.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/vendor/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/vendor/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/vendor/default-skin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/vendor/flexslider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/vendor/icomoon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/vendor/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/vendor/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/vendor/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/css/vendor/photoswipe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/iconic/css/material-design-iconic-font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/iconic/css/material-design-iconic-font.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/iconic/fonts/Material-Design-Iconic-Font.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/iconic/fonts/Material-Design-Iconic-Font.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/iconic/fonts/Material-Design-Iconic-Font.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/fonts/poppins/Poppins-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/insert_post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/main.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/scripts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/circle-progress.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/html5shiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/jquery.appear.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/jquery.appear.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/jquery.countTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/jquery.flexslider-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/jquery.stellar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/js/vendor/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/scss/_custom-settings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editing/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/iconic/css/material-design-iconic-font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/iconic/css/material-design-iconic-font.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/iconic/fonts/Material-Design-Iconic-Font.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/iconic/fonts/Material-Design-Iconic-Font.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/iconic/fonts/Material-Design-Iconic-Font.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/bg-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/icons/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/scss/_custom-settings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/validate_login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/animate/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/animsition/css/animsition.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/animsition/css/animsition.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/animsition/js/animsition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/animsition/js/animsition.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/js/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/countdowntime/countdowntime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/css-hamburgers/hamburgers.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/css-hamburgers/hamburgers.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/daterangepicker/daterangepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/daterangepicker/daterangepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/daterangepicker/moment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/daterangepicker/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/jquery/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/perfect-scrollbar/perfect-scrollbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/perfect-scrollbar/perfect-scrollbar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/select2/select2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/select2/select2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/select2/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/select2/select2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anteprima.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/articolo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogD.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_response.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insert_comment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insert_post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +340,7 @@
     <property name="node.js.selected.package.jscs" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -162,8 +402,17 @@
       <workItem from="1591465204028" duration="2252000" />
       <workItem from="1591469668731" duration="197000" />
       <workItem from="1591967613665" duration="2400000" />
-      <workItem from="1591982860039" duration="2478000" />
+      <workItem from="1591982860039" duration="3837000" />
+      <workItem from="1592039225209" duration="3135000" />
     </task>
+    <task id="LOCAL-00001" summary="modified blog dir to blog_bck in preparation for wordpress installation">
+      <created>1592006283473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592006283473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,16 +433,27 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modified blog dir to blog_bck in preparation for wordpress installation" />
+    <MESSAGE value="wordpress installation" />
+    <option name="LAST_COMMIT_MESSAGE" value="wordpress installation" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="330" y="99" key="#CLI_Interpreters" timestamp="1591466224992">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="308" y="95" key="#CLI_Interpreters/0.23.1440.821@0.23.1440.821" timestamp="1591459780431" />
     <state x="330" y="99" key="#CLI_Interpreters/0.23.1440.823@0.23.1440.823" timestamp="1591466224992" />
-    <state x="320" y="115" key="#Deployment" timestamp="1590657664328">
+    <state x="320" y="115" key="#Deployment" timestamp="1592039641778">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#Deployment/0.0.1440.900@0.0.1440.900" timestamp="1590657664328" />
+    <state x="320" y="115" key="#Deployment/1440.-638.2560.1417/0.0.1440.900@0.0.1440.900" timestamp="1592039641778" />
+    <state x="320" y="115" key="#Deployment/1440.-661.2560.1440/0.0.1440.900@0.0.1440.900" timestamp="1592039443875" />
+    <state x="345" y="129" key="#Options" timestamp="1592039470166">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="345" y="129" key="#Options/1440.-661.2560.1440/0.0.1440.900@0.0.1440.900" timestamp="1592039470166" />
     <state x="388" y="83" key="#PHP" timestamp="1591464450905">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
@@ -203,12 +463,26 @@
     </state>
     <state x="320" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1591458957550" />
     <state x="320" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1591466740919" />
-    <state x="221" y="54" width="1168" height="722" key="SettingsEditor" timestamp="1591968779450">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592041702987">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.-661.2560.1440/0.0.1440.900@0.0.1440.900" timestamp="1592041702987" />
+    <state x="221" y="54" width="1168" height="722" key="SettingsEditor" timestamp="1592039586002">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="54" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1591968779450" />
     <state x="221" y="72" width="1168" height="722" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1591464374235" />
     <state x="221" y="72" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1591466227956" />
+    <state x="221" y="54" key="SettingsEditor/1440.-638.2560.1417/0.0.1440.900@0.0.1440.900" timestamp="1592039586002" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592006336024">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/1440.-661.2560.1440/0.0.1440.900@0.0.1440.900" timestamp="1592006336024" />
+    <state x="627" y="187" width="494" height="525" key="ftp.server.browser" timestamp="1592039626826">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="627" y="187" width="494" height="525" key="ftp.server.browser/1440.-638.2560.1417/0.0.1440.900@0.0.1440.900" timestamp="1592039626826" />
+    <state x="627" y="187" key="ftp.server.browser/1440.-661.2560.1440/0.0.1440.900@0.0.1440.900" timestamp="1592039435760" />
   </component>
   <component name="WordPressConfiguration" enabled="true">
     <wordpressPath>blog</wordpressPath>
